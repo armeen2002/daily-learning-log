@@ -5,3 +5,4 @@ Day 3 - learning GitHub
 Day 4 - learning GitHub
 Day 5 - learning GitHub
 Day 6 - studying commit history
+Day 7 - practicing GitHub workflow
