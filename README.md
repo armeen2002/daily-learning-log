@@ -7,3 +7,4 @@ Day 5 - learning GitHub
 Day 6 - studying commit history
 Day 7 - practicing GitHub workflow
 Day 8 - learning about branches
+Day 9 - understanding pull requests
