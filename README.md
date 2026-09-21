@@ -12,3 +12,4 @@ Day 10 - learning how to merge branches
 Day 11 - practicing GitHub pull requests
 Day 12 - learning how to resolve merge conflicts
 Day 13 - understanding GitHub repositories
+Day 14 - practicing commits and pushes
