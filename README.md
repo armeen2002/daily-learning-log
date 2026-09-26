@@ -14,3 +14,4 @@ Day 12 - learning how to resolve merge conflicts
 Day 13 - understanding GitHub repositories
 Day 14 - practicing commits and pushes
 Day 15 - learning GitHub Issues
+Day 16 - organizing files in a repository
