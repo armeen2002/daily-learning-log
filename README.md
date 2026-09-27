@@ -15,3 +15,4 @@ Day 13 - understanding GitHub repositories
 Day 14 - practicing commits and pushes
 Day 15 - learning GitHub Issues
 Day 16 - organizing files in a repository
+Day 17 - learning Markdown basics
