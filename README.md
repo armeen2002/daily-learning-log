@@ -21,3 +21,4 @@ Day 19 - practicing branch management
 Day 20 - learning how to review code changes
 Day 21 - understanding GitHub Actions
 Day 22 - creating my first GitHub workflow
+Day 23 - learning about repository permissions
