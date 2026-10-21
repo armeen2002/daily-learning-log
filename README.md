@@ -23,3 +23,4 @@ Day 21 - understanding GitHub Actions
 Day 22 - creating my first GitHub workflow
 Day 23 - learning about repository permissions
 Day 24 - practicing Git commands
+Day 26 - practicing fetch and pull commands
