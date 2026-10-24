@@ -26,3 +26,4 @@ Day 24 - practicing Git commands
 Day 26 - practicing fetch and pull commands
 Day 27 - learning how to fork a repository
 Day 28 - contributing to an open-source project
+Day 29 - reviewing everything I learned about GitHub
