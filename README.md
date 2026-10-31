@@ -32,3 +32,4 @@ Day 31 - starting a new month of GitHub learning
 Day 32 - learning advanced Git branching
 Day 33 - practicing Git merge strategies
 Day 34 - understanding merge conflicts
+Day 35 - improving repository organization
