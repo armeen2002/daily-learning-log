@@ -33,3 +33,4 @@ Day 32 - learning advanced Git branching
 Day 33 - practicing Git merge strategies
 Day 34 - understanding merge conflicts
 Day 35 - improving repository organization
+Day 36 - learning about GitHub Discussions
